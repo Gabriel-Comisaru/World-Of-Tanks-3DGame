@@ -1,0 +1,216 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\FACULTATE\Anul III - Sem1\EGC\gfx-framework-master to tema 2\src\components\camera_input.cpp">
+      <Filter>src\components</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\FACULTATE\Anul III - Sem1\EGC\gfx-framework-master to tema 2\src\components\scene_input.cpp">
+      <Filter>src\components</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\FACULTATE\Anul III - Sem1\EGC\gfx-framework-master to tema 2\src\components\simple_scene.cpp">
+      <Filter>src\components</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\FACULTATE\Anul III - Sem1\EGC\gfx-framework-master to tema 2\src\components\text_renderer.cpp">
+      <Filter>src\components</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\FACULTATE\Anul III - Sem1\EGC\gfx-framework-master to tema 2\src\core\engine.cpp">
+      <Filter>src\core</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\FACULTATE\Anul III - Sem1\EGC\gfx-framework-master to tema 2\src\core\gpu\frame_buffer.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\FACULTATE\Anul III - Sem1\EGC\gfx-framework-master to tema 2\src\core\gpu\gpu_buffers.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\FACULTATE\Anul III - Sem1\EGC\gfx-framework-master to tema 2\src\core\gpu\mesh.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\FACULTATE\Anul III - Sem1\EGC\gfx-framework-master to tema 2\src\core\gpu\shader.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\FACULTATE\Anul III - Sem1\EGC\gfx-framework-master to tema 2\src\core\gpu\texture2D.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\FACULTATE\Anul III - Sem1\EGC\gfx-framework-master to tema 2\src\core\managers\texture_manager.cpp">
+      <Filter>src\core\managers</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\FACULTATE\Anul III - Sem1\EGC\gfx-framework-master to tema 2\src\core\window\input_controller.cpp">
+      <Filter>src\core\window</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\FACULTATE\Anul III - Sem1\EGC\gfx-framework-master to tema 2\src\core\window\window_callbacks.cpp">
+      <Filter>src\core\window</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\FACULTATE\Anul III - Sem1\EGC\gfx-framework-master to tema 2\src\core\window\window_object.cpp">
+      <Filter>src\core\window</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\FACULTATE\Anul III - Sem1\EGC\gfx-framework-master to tema 2\src\core\world.cpp">
+      <Filter>src\core</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\FACULTATE\Anul III - Sem1\EGC\gfx-framework-master to tema 2\src\lab_m1\Tema2\Tema2.cpp">
+      <Filter>src\lab_m1\Tema2</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\FACULTATE\Anul III - Sem1\EGC\gfx-framework-master to tema 2\src\lab_m1\Tema2\UItext.cpp">
+      <Filter>src\lab_m1\Tema2</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\FACULTATE\Anul III - Sem1\EGC\gfx-framework-master to tema 2\src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\FACULTATE\Anul III - Sem1\EGC\gfx-framework-master to tema 2\src\utils\gl_utils.cpp">
+      <Filter>src\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\FACULTATE\Anul III - Sem1\EGC\gfx-framework-master to tema 2\src\utils\text_utils.cpp">
+      <Filter>src\utils</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\FACULTATE\Anul III - Sem1\EGC\gfx-framework-master to tema 2\src\components\camera.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\FACULTATE\Anul III - Sem1\EGC\gfx-framework-master to tema 2\src\components\camera_input.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\FACULTATE\Anul III - Sem1\EGC\gfx-framework-master to tema 2\src\components\exports.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\FACULTATE\Anul III - Sem1\EGC\gfx-framework-master to tema 2\src\components\scene_input.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\FACULTATE\Anul III - Sem1\EGC\gfx-framework-master to tema 2\src\components\simple_scene.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\FACULTATE\Anul III - Sem1\EGC\gfx-framework-master to tema 2\src\components\text_renderer.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\FACULTATE\Anul III - Sem1\EGC\gfx-framework-master to tema 2\src\components\transform.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\FACULTATE\Anul III - Sem1\EGC\gfx-framework-master to tema 2\src\core\engine.h">
+      <Filter>src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\FACULTATE\Anul III - Sem1\EGC\gfx-framework-master to tema 2\src\core\gpu\frame_buffer.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\FACULTATE\Anul III - Sem1\EGC\gfx-framework-master to tema 2\src\core\gpu\gpu_buffers.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\FACULTATE\Anul III - Sem1\EGC\gfx-framework-master to tema 2\src\core\gpu\mesh.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\FACULTATE\Anul III - Sem1\EGC\gfx-framework-master to tema 2\src\core\gpu\particle_effect.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\FACULTATE\Anul III - Sem1\EGC\gfx-framework-master to tema 2\src\core\gpu\shader.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\FACULTATE\Anul III - Sem1\EGC\gfx-framework-master to tema 2\src\core\gpu\ssbo.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\FACULTATE\Anul III - Sem1\EGC\gfx-framework-master to tema 2\src\core\gpu\texture2D.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\FACULTATE\Anul III - Sem1\EGC\gfx-framework-master to tema 2\src\core\gpu\vertex_format.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\FACULTATE\Anul III - Sem1\EGC\gfx-framework-master to tema 2\src\core\managers\resource_path.h">
+      <Filter>src\core\managers</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\FACULTATE\Anul III - Sem1\EGC\gfx-framework-master to tema 2\src\core\managers\texture_manager.h">
+      <Filter>src\core\managers</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\FACULTATE\Anul III - Sem1\EGC\gfx-framework-master to tema 2\src\core\window\input_controller.h">
+      <Filter>src\core\window</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\FACULTATE\Anul III - Sem1\EGC\gfx-framework-master to tema 2\src\core\window\window_callbacks.h">
+      <Filter>src\core\window</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\FACULTATE\Anul III - Sem1\EGC\gfx-framework-master to tema 2\src\core\window\window_object.h">
+      <Filter>src\core\window</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\FACULTATE\Anul III - Sem1\EGC\gfx-framework-master to tema 2\src\core\world.h">
+      <Filter>src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\FACULTATE\Anul III - Sem1\EGC\gfx-framework-master to tema 2\src\lab_m1\Tema2\Building.h">
+      <Filter>src\lab_m1\Tema2</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\FACULTATE\Anul III - Sem1\EGC\gfx-framework-master to tema 2\src\lab_m1\Tema2\Bullet.h">
+      <Filter>src\lab_m1\Tema2</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\FACULTATE\Anul III - Sem1\EGC\gfx-framework-master to tema 2\src\lab_m1\Tema2\Enemy.h">
+      <Filter>src\lab_m1\Tema2</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\FACULTATE\Anul III - Sem1\EGC\gfx-framework-master to tema 2\src\lab_m1\Tema2\Heart.h">
+      <Filter>src\lab_m1\Tema2</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\FACULTATE\Anul III - Sem1\EGC\gfx-framework-master to tema 2\src\lab_m1\Tema2\Tema2.h">
+      <Filter>src\lab_m1\Tema2</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\FACULTATE\Anul III - Sem1\EGC\gfx-framework-master to tema 2\src\lab_m1\Tema2\UItext.h">
+      <Filter>src\lab_m1\Tema2</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\FACULTATE\Anul III - Sem1\EGC\gfx-framework-master to tema 2\src\lab_m1\Tema2\lab_camera.h">
+      <Filter>src\lab_m1\Tema2</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\FACULTATE\Anul III - Sem1\EGC\gfx-framework-master to tema 2\src\lab_m1\Tema2\shaders\FragmentShader.glsl">
+      <Filter>src\lab_m1\Tema2\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\FACULTATE\Anul III - Sem1\EGC\gfx-framework-master to tema 2\src\lab_m1\Tema2\shaders\VertexShader.glsl">
+      <Filter>src\lab_m1\Tema2\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\FACULTATE\Anul III - Sem1\EGC\gfx-framework-master to tema 2\src\lab_m1\lab_list.h">
+      <Filter>src\lab_m1</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\FACULTATE\Anul III - Sem1\EGC\gfx-framework-master to tema 2\src\utils\gl_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\FACULTATE\Anul III - Sem1\EGC\gfx-framework-master to tema 2\src\utils\glm_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\FACULTATE\Anul III - Sem1\EGC\gfx-framework-master to tema 2\src\utils\math_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\FACULTATE\Anul III - Sem1\EGC\gfx-framework-master to tema 2\src\utils\memory_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\FACULTATE\Anul III - Sem1\EGC\gfx-framework-master to tema 2\src\utils\text_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\FACULTATE\Anul III - Sem1\EGC\gfx-framework-master to tema 2\src\utils\window_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\FACULTATE\Anul III - Sem1\EGC\gfx-framework-master to tema 2\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{7F8142F6-4330-3CBE-8590-245C4CCA0C25}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\components">
+      <UniqueIdentifier>{2D8B3FC5-DAC4-309E-A79B-0BD18A8F121D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core">
+      <UniqueIdentifier>{74E72BF2-06C2-3B63-B3DC-791794DF2B94}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core\gpu">
+      <UniqueIdentifier>{A576554B-0B5C-3503-B770-0CC926DE311F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core\managers">
+      <UniqueIdentifier>{AADD855C-017A-3985-97D4-A8348019349C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core\window">
+      <UniqueIdentifier>{C5EE66A3-FF4D-31B0-B15D-FB8577F5FAE9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1">
+      <UniqueIdentifier>{83342817-F2DE-3EB3-9F15-979325F4EA9F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\Tema2">
+      <UniqueIdentifier>{4C63F45F-9E66-3F3C-A960-84BC58704C8A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\Tema2\shaders">
+      <UniqueIdentifier>{A88A6FF6-A21A-3A60-A672-FA1F82FE6272}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\utils">
+      <UniqueIdentifier>{C08840E9-5EFE-3B7C-84E6-A84B702E8D2C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,3 @@
+D:/FACULTATE/Anul III - Sem1/EGC/gfx-framework-master to tema 2/build/CMakeFiles/GFXFramework.dir
+D:/FACULTATE/Anul III - Sem1/EGC/gfx-framework-master to tema 2/build/CMakeFiles/ALL_BUILD.dir
+D:/FACULTATE/Anul III - Sem1/EGC/gfx-framework-master to tema 2/build/CMakeFiles/ZERO_CHECK.dir
